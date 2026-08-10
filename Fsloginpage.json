@@ -14,10 +14,10 @@
     "allowOffline": false
   },
     {
-    "id": "a6c796fcbd74afcb",
-    "username": "nopal",
-    "password": "123",
-    "expiresAt": "2026-8-9",
-    "allowOffline": true
+"id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2026-07-30",
+    "allowOffline": false
     }
 ]
