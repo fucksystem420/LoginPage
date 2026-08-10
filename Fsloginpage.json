@@ -4,6 +4,6 @@
     "username": "nopal",
     "password": "123",
     "expiresAt": "2026-08-11",
-    "allowOffline": fal
+    "allowOffline": true
     }
 ]
